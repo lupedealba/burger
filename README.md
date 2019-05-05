@@ -7,10 +7,10 @@ In this activity, I created a burger logger. When you click on the page you will
 
 **Video:**
 
-https://drive.google.com/open?id=10dsCtWR-gTJ815EaSTK21yDOvcPtBqTW
+https://drive.google.com/file/d/17lvSWUbYUaf6qUqzdj03UaSxzJQ2Godd/view
 
 
 
 **Screenshot:**
-![Item Purchase](/images/screenshot.png)
+![Item Purchase](public/assets/img/Guadalupitas.png)
 Format: ![Alt Text](url)

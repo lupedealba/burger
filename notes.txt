@@ -25,3 +25,9 @@ cd "c:\program files\mysql\mysql server 8.0\bin"
 
 dtatabase: burgers_db
 table: burgers
+
+https://burgers-lupe.herokuapp.com/
+
+https://github.com/lupedealba/burger
+
+ https://lupedealba.github.io/burger/
