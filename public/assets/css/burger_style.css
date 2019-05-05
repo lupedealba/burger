@@ -1,0 +1,34 @@
+body {
+    background-color: #f77824;
+  }
+
+
+
+  h1 {
+    color: rgb(13, 13, 14);
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: -2px 2px 2px rgba(2, 2, 105, 0.747);
+    font-size: 15vh;
+  }
+
+  .jumbotron{
+      padding-top: 1%;
+      background-color:transparent !important;
+      padding-bottom: 0px;
+      margin-bottom: 5px;
+      color: black;
+  }
+
+.krabby {
+    margin-left: 10%;
+}
+
+  img {
+      margin-top: 1%;
+      width: 20%;
+  }
+
+  .submitFont{
+      color: green;
+  }

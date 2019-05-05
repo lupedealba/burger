@@ -1,0 +1,27 @@
+npm init
+npm install express
+npm install express-handlebars
+npm install mysql
+npm install body-parser
+
+
+Node
+
+
+
+Method-override
+
+git clone __________________<<then here write link thats on the repo.
+
+then i went on my sql and typed:
+source C:\Users\Lupe\Desktop\burger\db\schema.sql
+and
+source
+
+
+cd "c:\program files\mysql\mysql server 8.0\bin"
+
+./mysql -u root -p
+
+dtatabase: burgers_db
+table: burgers
